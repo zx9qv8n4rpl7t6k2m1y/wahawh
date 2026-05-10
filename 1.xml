@@ -92,7 +92,7 @@
 
         // Фоновое изображение при загрузке игры. При сборке билда код меняется взависимости от настроек проекта.
         
-        canvas.style.background = "url('https://cdn.jsdelivr.net/gh/bodrumkat/wahawh@main/background.png') center / cover";
+        canvas.style.background = "url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/efacdd67-ec59-4d24-ac43-38698e116ce2.png') center / cover";
 
         loadingCover.style.display = "";
 
